@@ -1,10 +1,3 @@
-# Ashish suman
-Beautiful HTML,CSS personal  Portfolio
-
-## clone this repo
-```bash
-git clone https://github.com/Ashish-suman-sharma/portfolio.git
-```
 
 ## Features
 - Fully Responsive
