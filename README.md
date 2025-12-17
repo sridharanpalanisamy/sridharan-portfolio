@@ -3,6 +3,7 @@
 Welcome to my **personal portfolio website**, built using **Bootstrap 5**, **HTML**, **CSS**, and **JavaScript**. This site serves as an interactive resume and project showcase, highlighting my skills, educational background, and contact information.
 
 🔗 **Live Site**: [Click to view](#)  
+
 📄 **Resume**: [Download CV (PDF)](assets/images/Sridharan%20P%20-%20Software%20Developer%20-%20Resume.pdf)
 
 ---
