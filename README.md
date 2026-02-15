@@ -89,14 +89,6 @@ If you are interested in working together or want to know more about me:
 
 ---
 
-## 📝 To-Do
-
-- [ ] Add real blog posts
-- [ ] Improve form functionality (backend support)
-- [ ] Connect GitHub profile link
-
----
-
 ## 📜 License
 
 This project is open source and free to use under the [MIT License](LICENSE).
