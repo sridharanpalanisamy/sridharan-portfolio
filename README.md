@@ -54,9 +54,8 @@ portfolio-website/
 
 │ │ ├── Untitled design (3).png
 
-│ │ └── Sridharan P - Software 
-
-Developer - Resume.pdf
+│ ├── Sridharan P - Software 
+       Developer - Resume.pdf
 
 ---
 
