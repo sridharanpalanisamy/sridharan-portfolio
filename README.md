@@ -25,8 +25,8 @@ Welcome to my **personal portfolio website**, built using **Bootstrap 5**, **HTM
 ## 📁 Folder Structure
 
 portfolio-website/
-├── index.html
 
+├── index.html
 ├── README.md
 
 ├── assets/
