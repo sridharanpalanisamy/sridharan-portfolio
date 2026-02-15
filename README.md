@@ -54,7 +54,9 @@ portfolio-website/
 
 │ │ ├── Untitled design (3).png
 
-│ │ └── Sridharan P - Software Developer - Resume.pdf
+│ │ └── Sridharan P - Software 
+
+Developer - Resume.pdf
 
 ---
 
@@ -74,7 +76,7 @@ portfolio-website/
 ## 📷 Screenshots
 
 
-> _Add screenshots here if you want (drag-and-drop images in GitHub markdown)_
+> _Add screenshots here if you want_
 
 ---
 
@@ -82,7 +84,7 @@ portfolio-website/
 
 If you are interested in working together or want to know more about me:
 
-- 📧 Email: sridharanpalanisamy96@gmail.com  
+- Email: sridharanpalanisamy96@gmail.com  
 - 📞 Phone: +91 9750235350  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sridharan-p-298626315/)  
 - 📸 [Instagram](https://www.instagram.com/sridhardarz_blehum/)  
