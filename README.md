@@ -55,9 +55,6 @@ portfolio-website/
 
 │ │ └── Sridharan P - Software Developer - Resume.pdf
 
-yaml
-Copy code
-
 ---
 
 ## 🛠️ Tech Stack
