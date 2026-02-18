@@ -75,7 +75,7 @@ portfolio-website/
 ## 📷 Screenshots
 
 
-> _Add screenshots here if you want_
+> _Add screenshots here 
 
 ---
 
