@@ -82,7 +82,7 @@ Add screenshots here
 
 If you are interested in working together or want to know more about me:
 
-- Email: sridharanpalanisamy96@gmail.com  
+- 🌐 [EMail]  (sridharanpalanisamy96@gmail.com)
 - 📞 Phone: +91 9750235350  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sridharan-p-298626315/)  
 - 📸 [Instagram](https://www.instagram.com/sridhardarz_blehum/)  
